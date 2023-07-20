@@ -53,7 +53,7 @@ ___
 </div>
 
 ___
-<div id="top_langs" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntsiferovPeter&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+<div id="profile_views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=AntsiferoPeter&label=PROFILE+VIEWS&style=for-the-badge&color=090909" alt=""/>
 </div>
 
