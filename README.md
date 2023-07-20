@@ -25,7 +25,6 @@ ___
     <img src="https://img.shields.io/badge/Microsoft_Excel-090909?style=for-the-badge&logo=microsoft-excel&logoColor=008B32" alt=""/>
     <img src="https://img.shields.io/badge/Microsoft_PowerPoint-090909?style=for-the-badge&logo=microsoft-powerpoint&logoColor=F74F00" alt=""/>
     <img src="https://img.shields.io/badge/Microsoft_Word-090909?style=for-the-badge&logo=microsoft-word&logoColor=103F91" alt=""/>
-    <img src="https://img.shields.io/badge/Microsoft_Visio-090909?style=for-the-badge&logo=microsoft-visio&logoColor=4756B3" alt=""/>
     <br>
     <img src="https://img.shields.io/badge/LibreOffice-090909?style=for-the-badge&logo=LibreOffice&logoColor=26A514" alt=""/>
     <img src="https://img.shields.io/badge/blender-090909.svg?style=for-the-badge&logo=blender&logoColor=F19347" alt=""/>
