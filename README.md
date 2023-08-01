@@ -49,7 +49,7 @@ ___
     <img src="https://img.shields.io/badge/Matplotlib-090909.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/numpy-090909.svg?style=for-the-badge&logo=numpy&logoColor=%23013243" alt=""/>
     <img src="https://img.shields.io/badge/Qt-090909.svg?style=for-the-badge&logo=Qt&logoColor=%23217346" alt=""/>
-    <img src="" alt=""/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=090909&logo=Selenium&logoColor=white&label=" alt=""/>
 </div>
 
 ___
